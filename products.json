@@ -1,0 +1,56 @@
+[
+	{
+		"id": 1,
+		"title": "product 1",
+		"description": "description",
+		"code": "asd",
+		"price": "1000",
+		"status": "true",
+		"stock": "35",
+		"category": "category",
+		"thumbnails": "[]"
+	},
+	{
+		"id": 2,
+		"title": "product 2",
+		"description": "description",
+		"code": "asd",
+		"price": "1000",
+		"status": "true",
+		"stock": "15",
+		"category": "category",
+		"thumbnails": "[]"
+	},
+	{
+		"id": 3,
+		"title": "product 3",
+		"description": "description",
+		"code": "asd",
+		"price": "1000",
+		"status": "true",
+		"stock": "5",
+		"category": "category",
+		"thumbnails": "[]"
+	},
+	{
+		"id": 4,
+		"title": "product 1",
+		"description": "description",
+		"code": "asd",
+		"price": "1000",
+		"status": "true",
+		"stock": "35",
+		"category": "category"
+	},
+	{
+		"id": 5,
+		"title": "product 1",
+		"description": "description",
+		"code": "asd",
+		"price": "1000",
+		"status": "true",
+		"stock": "35",
+		"category": "category",
+		"thumbnails": "[adasdada]"
+	}
+]
